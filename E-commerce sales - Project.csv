@@ -1,0 +1,201 @@
+Order_ID,Order_Date,Customer_Name,Category,Sub_Category,Product,Quantity,Sales,Discount,Profit,City,State,Payment_Mode
+ORD001,1/2/2026,Rahul,Electronics,Mobiles,Smartphone,2,"36,000.00",20.00,5832,Noida,Uttar Pradesh,UPI
+ORD002,1/3/2026,Priya,Furniture,Chairs,Office Chair,1,"7,500.00",20.00,712,Delhi,Delhi,Card
+ORD003,1/4/2026,Amit,Clothing,Shirts,Formal Shirt,3,"4,500.00",20.00,810,Bijnor,Uttar Pradesh,Cash
+ORD004,1/5/2026,Neha,Electronics,Laptops,Laptop,1,"50,000.00",20.00,10625,Ghaziabad,Uttar Pradesh,UPI
+ORD005,1/7/2026,Ravi,Furniture,Tables,Study Table,2,"12,000.00",20.00,2160,Meerut,Uttar Pradesh,Card
+ORD006,1/8/2026,Pooja,Office Supplies,Pens,Ball Pen,5,400.00,20.00,68,Noida,Uttar Pradesh,UPI
+ORD007,1/9/2026,Ankit,Electronics,Accessories,Headphones,2,"5,000.00",20.00,760,Gurugram,Haryana,Net Banking
+ORD008,1/10/2026,Sneha,Clothing,T-Shirts,Casual T-Shirt,4,"3,600.00",20.00,583,Jaipur,Rajasthan,UPI
+ORD009,1/12/2026,Vikas,Furniture,Bookcases,Bookshelf,1,"8,500.00",20.00,1543,Agra,Uttar Pradesh,Card
+ORD010,1/13/2026,Kavita,Office Supplies,Paper,Printer Paper,3,"1,500.00",20.00,171,Dehradun,Uttarakhand,Cash
+ORD011,1/15/2026,Rohit,Electronics,Mobiles,Smartphone,1,"18,000.00",20.00,3110,Delhi,Delhi,UPI
+ORD012,1/16/2026,Anjali,Clothing,Jackets,Jacket,2,"6,400.00",20.00,922,Noida,Uttar Pradesh,Card
+ORD013,1/18/2026,Arjun,Furniture,Furnishings,Desk Lamp,3,"4,500.00",20.00,513,Ghaziabad,Uttar Pradesh,UPI
+ORD014,1/19/2026,Simran,Office Supplies,Binders,File Binder,4,"1,400.00",20.00,243,Meerut,Uttar Pradesh,Cash
+ORD015,1/21/2026,Nitin,Electronics,Accessories,Keyboard,2,"3,600.00",20.00,544,Gurugram,Haryana,Card
+ORD016,1/22/2026,Komal,Clothing,Trousers,Formal Trousers,1,"2,200.00",20.00,376,Bijnor,Uttar Pradesh,UPI
+ORD017,1/24/2026,Saurabh,Furniture,Chairs,Office Chair,2,"15,000.00",20.00,1807,Noida,Uttar Pradesh,Net Banking
+ORD018,1/25/2026,Shweta,Office Supplies,Storage,Storage Box,3,"2,100.00",20.00,363,Jaipur,Rajasthan,Cash
+ORD019,1/27/2026,Manish,Electronics,Laptops,Laptop,1,"50,000.00",20.00,9000,Delhi,Delhi,UPI
+ORD020,1/28/2026,Riya,Clothing,Shirts,Formal Shirt,2,"3,000.00",20.00,540,Agra,Uttar Pradesh,Card
+ORD021,2/1/2026,Rahul,Furniture,Tables,Study Table,1,"6,000.00",20.00,855,Noida,Uttar Pradesh,UPI
+ORD022,2/2/2026,Priya,Electronics,Mobiles,Smartphone,3,"54,000.00",20.00,8262,Ghaziabad,Uttar Pradesh,Card
+ORD023,2/4/2026,Amit,Office Supplies,Pens,Ball Pen,5,400.00,20.00,61,Meerut,Uttar Pradesh,Cash
+ORD024,2/5/2026,Neha,Clothing,T-Shirts,Casual T-Shirt,2,"1,800.00",20.00,307,Gurugram,Haryana,UPI
+ORD025,2/6/2026,Ravi,Electronics,Accessories,Headphones,1,"2,500.00",20.00,400,Delhi,Delhi,Net Banking
+ORD026,2/8/2026,Pooja,Furniture,Bookcases,Bookshelf,2,"17,000.00",20.00,2754,Bijnor,Uttar Pradesh,Card
+ORD027,2/9/2026,Ankit,Office Supplies,Paper,Printer Paper,4,"2,000.00",20.00,238,Noida,Uttar Pradesh,UPI
+ORD028,2/11/2026,Sneha,Clothing,Jackets,Jacket,1,"3,200.00",20.00,410,Jaipur,Rajasthan,Cash
+ORD029,2/12/2026,Vikas,Electronics,Laptops,Laptop,2,"100,000.00",15.00,18000,Agra,Uttar Pradesh,Card
+ORD030,2/14/2026,Kavita,Furniture,Furnishings,Desk Lamp,4,"6,000.00",15.00,684,Dehradun,Uttarakhand,UPI
+ORD031,2/15/2026,Rohit,Office Supplies,Binders,File Binder,3,"1,050.00",15.00,182,Delhi,Delhi,Cash
+ORD032,2/17/2026,Anjali,Clothing,Trousers,Formal Trousers,2,"4,400.00",15.00,712,Noida,Uttar Pradesh,UPI
+ORD033,2/18/2026,Arjun,Electronics,Accessories,Keyboard,3,"5,400.00",15.00,689,Ghaziabad,Uttar Pradesh,Card
+ORD034,2/20/2026,Simran,Furniture,Chairs,Office Chair,1,"7,500.00",15.00,1012,Meerut,Uttar Pradesh,Net Banking
+ORD035,2/21/2026,Nitin,Clothing,Shirts,Formal Shirt,4,"6,000.00",15.00,1026,Gurugram,Haryana,UPI
+ORD036,2/23/2026,Komal,Office Supplies,Storage,Storage Box,2,"1,400.00",15.00,238,Bijnor,Uttar Pradesh,Cash
+ORD037,2/24/2026,Saurabh,Electronics,Mobiles,Smartphone,1,"18,000.00",15.00,2916,Noida,Uttar Pradesh,Card
+ORD038,2/26/2026,Shweta,Furniture,Tables,Study Table,2,"12,000.00",15.00,1632,Jaipur,Rajasthan,UPI
+ORD039,2/27/2026,Manish,Clothing,T-Shirts,Casual T-Shirt,3,"2,700.00",15.00,344,Delhi,Delhi,Cash
+ORD040,3/1/2026,Riya,Electronics,Accessories,Headphones,2,"5,000.00",15.00,760,Agra,Uttar Pradesh,UPI
+ORD041,3/2/2026,Rahul,Office Supplies,Paper,Printer Paper,5,"2,500.00",15.00,340,Noida,Uttar Pradesh,Card
+ORD042,3/4/2026,Priya,Furniture,Bookcases,Bookshelf,1,"8,500.00",15.00,1445,Ghaziabad,Uttar Pradesh,UPI
+ORD043,3/5/2026,Amit,Electronics,Laptops,Laptop,1,"50,000.00",15.00,8000,Meerut,Uttar Pradesh,Net Banking
+ORD044,3/7/2026,Neha,Clothing,Jackets,Jacket,2,"6,400.00",15.00,1030,Gurugram,Haryana,Card
+ORD045,3/8/2026,Ravi,Office Supplies,Pens,Ball Pen,4,320.00,15.00,54,Delhi,Delhi,Cash
+ORD046,3/10/2026,Pooja,Furniture,Furnishings,Desk Lamp,2,"3,000.00",15.00,306,Bijnor,Uttar Pradesh,UPI
+ORD047,3/11/2026,Ankit,Electronics,Mobiles,Smartphone,2,"36,000.00",15.00,5832,Noida,Uttar Pradesh,Card
+ORD048,3/13/2026,Sneha,Clothing,Trousers,Formal Trousers,3,"6,600.00",15.00,1069,Jaipur,Rajasthan,UPI
+ORD049,3/14/2026,Vikas,Furniture,Chairs,Office Chair,1,"7,500.00",15.00,840,Agra,Uttar Pradesh,Cash
+ORD050,3/16/2026,Kavita,Office Supplies,Binders,File Binder,5,"1,750.00",15.00,299,Dehradun,Uttarakhand,Card
+ORD051,3/17/2026,Rohit,Electronics,Accessories,Keyboard,2,"3,600.00",15.00,612,Delhi,Delhi,UPI
+ORD052,3/19/2026,Anjali,Clothing,Shirts,Formal Shirt,1,"1,500.00",15.00,191,Noida,Uttar Pradesh,Cash
+ORD053,3/20/2026,Arjun,Furniture,Tables,Study Table,3,"18,000.00",15.00,2916,Ghaziabad,Uttar Pradesh,Card
+ORD054,3/22/2026,Simran,Electronics,Laptops,Laptop,1,"50,000.00",15.00,10625,Meerut,Uttar Pradesh,UPI
+ORD055,3/23/2026,Nitin,Office Supplies,Storage,Storage Box,4,"2,800.00",15.00,484,Gurugram,Haryana,Net Banking
+ORD056,3/25/2026,Komal,Clothing,T-Shirts,Casual T-Shirt,2,"1,800.00",15.00,306,Bijnor,Uttar Pradesh,Cash
+ORD057,3/26/2026,Saurabh,Electronics,Accessories,Headphones,3,"7,500.00",15.00,956,Noida,Uttar Pradesh,UPI
+ORD058,3/28/2026,Shweta,Furniture,Bookcases,Bookshelf,1,"8,500.00",15.00,1377,Jaipur,Rajasthan,Card
+ORD059,3/29/2026,Manish,Office Supplies,Paper,Printer Paper,2,"1,000.00",15.00,114,Delhi,Delhi,Cash
+ORD060,3/31/2026,Riya,Clothing,Jackets,Jacket,3,"9,600.00",15.00,1230,Agra,Uttar Pradesh,UPI
+ORD061,4/1/2026,Rahul,Electronics,Mobiles,Smartphone,1,"18,000.00",15.00,3078,Noida,Uttar Pradesh,Card
+ORD062,4/3/2026,Priya,Furniture,Chairs,Office Chair,2,"15,000.00",15.00,2025,Ghaziabad,Uttar Pradesh,UPI
+ORD063,4/4/2026,Amit,Clothing,Trousers,Formal Trousers,1,"2,200.00",15.00,374,Meerut,Uttar Pradesh,Cash
+ORD064,4/6/2026,Neha,Office Supplies,Pens,Ball Pen,5,400.00,15.00,51,Gurugram,Haryana,Card
+ORD065,4/7/2026,Ravi,Electronics,Laptops,Laptop,2,"100,000.00",10.00,18000,Delhi,Delhi,Net Banking
+ORD066,4/9/2026,Pooja,Furniture,Tables,Study Table,1,"6,000.00",10.00,816,Bijnor,Uttar Pradesh,UPI
+ORD067,4/10/2026,Ankit,Clothing,Shirts,Formal Shirt,2,"3,000.00",10.00,513,Noida,Uttar Pradesh,Card
+ORD068,4/12/2026,Sneha,Electronics,Accessories,Keyboard,4,"7,200.00",10.00,1094,Jaipur,Rajasthan,UPI
+ORD069,4/13/2026,Vikas,Office Supplies,Storage,Storage Box,2,"1,400.00",10.00,238,Agra,Uttar Pradesh,Cash
+ORD070,4/15/2026,Kavita,Furniture,Furnishings,Desk Lamp,3,"4,500.00",10.00,459,Dehradun,Uttarakhand,Card
+ORD071,4/16/2026,Rohit,Electronics,Accessories,Headphones,1,"2,500.00",10.00,280,Delhi,Delhi,UPI
+ORD072,4/18/2026,Anjali,Clothing,T-Shirts,Casual T-Shirt,5,"4,500.00",10.00,729,Noida,Uttar Pradesh,Cash
+ORD073,4/19/2026,Arjun,Furniture,Bookcases,Bookshelf,2,"17,000.00",10.00,2907,Ghaziabad,Uttar Pradesh,Card
+ORD074,4/21/2026,Simran,Office Supplies,Paper,Printer Paper,3,"1,500.00",10.00,255,Meerut,Uttar Pradesh,UPI
+ORD075,4/22/2026,Nitin,Electronics,Mobiles,Smartphone,2,"36,000.00",10.00,5510,Gurugram,Haryana,Net Banking
+ORD076,4/24/2026,Komal,Clothing,Jackets,Jacket,1,"3,200.00",10.00,492,Bijnor,Uttar Pradesh,Cash
+ORD077,4/25/2026,Saurabh,Furniture,Chairs,Office Chair,3,"22,500.00",10.00,2441,Noida,Uttar Pradesh,Card
+ORD078,4/27/2026,Shweta,Electronics,Laptops,Laptop,1,"50,000.00",10.00,10625,Jaipur,Rajasthan,UPI
+ORD079,4/28/2026,Manish,Office Supplies,Binders,File Binder,4,"1,400.00",10.00,218,Delhi,Delhi,Cash
+ORD080,4/30/2026,Riya,Clothing,Shirts,Formal Shirt,3,"4,500.00",10.00,459,Agra,Uttar Pradesh,UPI
+ORD081,5/1/2026,Rahul,Electronics,Accessories,Keyboard,2,"3,600.00",10.00,581,Noida,Uttar Pradesh,Card
+ORD082,5/3/2026,Priya,Furniture,Tables,Study Table,2,"12,000.00",10.00,1944,Ghaziabad,Uttar Pradesh,UPI
+ORD083,5/4/2026,Amit,Clothing,T-Shirts,Casual T-Shirt,1,900.00,10.00,153,Meerut,Uttar Pradesh,Cash
+ORD084,5/6/2026,Neha,Electronics,Mobiles,Smartphone,3,"54,000.00",10.00,7344,Gurugram,Haryana,Card
+ORD085,5/7/2026,Ravi,Office Supplies,Paper,Printer Paper,5,"2,500.00",10.00,285,Delhi,Delhi,UPI
+ORD086,5/9/2026,Pooja,Furniture,Bookcases,Bookshelf,1,"8,500.00",10.00,1156,Bijnor,Uttar Pradesh,Cash
+ORD087,5/10/2026,Ankit,Electronics,Accessories,Headphones,2,"5,000.00",10.00,810,Noida,Uttar Pradesh,Card
+ORD088,5/12/2026,Sneha,Clothing,Trousers,Formal Trousers,2,"4,400.00",10.00,752,Jaipur,Rajasthan,UPI
+ORD089,5/13/2026,Vikas,Furniture,Furnishings,Desk Lamp,4,"6,000.00",10.00,1020,Agra,Uttar Pradesh,Net Banking
+ORD090,5/15/2026,Kavita,Office Supplies,Storage,Storage Box,3,"2,100.00",10.00,286,Dehradun,Uttarakhand,Cash
+ORD091,5/16/2026,Rohit,Electronics,Laptops,Laptop,1,"50,000.00",10.00,9000,Delhi,Delhi,UPI
+ORD092,5/18/2026,Anjali,Clothing,Jackets,Jacket,2,"6,400.00",10.00,870,Noida,Uttar Pradesh,Card
+ORD093,5/19/2026,Arjun,Furniture,Chairs,Office Chair,1,"7,500.00",10.00,1069,Ghaziabad,Uttar Pradesh,UPI
+ORD094,5/21/2026,Simran,Office Supplies,Pens,Ball Pen,5,400.00,10.00,61,Meerut,Uttar Pradesh,Cash
+ORD095,5/22/2026,Nitin,Electronics,Mobiles,Smartphone,1,"18,000.00",10.00,3060,Gurugram,Haryana,Card
+ORD096,5/24/2026,Komal,Clothing,Shirts,Formal Shirt,4,"6,000.00",10.00,816,Bijnor,Uttar Pradesh,UPI
+ORD097,5/25/2026,Saurabh,Furniture,Tables,Study Table,2,"12,000.00",10.00,1734,Noida,Uttar Pradesh,Net Banking
+ORD098,5/27/2026,Shweta,Electronics,Accessories,Keyboard,3,"5,400.00",10.00,872,Jaipur,Rajasthan,Card
+ORD099,5/28/2026,Manish,Office Supplies,Binders,File Binder,2,700.00,10.00,119,Delhi,Delhi,Cash
+ORD100,5/30/2026,Riya,Clothing,T-Shirts,Casual T-Shirt,5,"4,500.00",10.00,729,Agra,Uttar Pradesh,UPI
+ORD101,6/1/2026,Rahul,Electronics,Accessories,Headphones,1,"2,500.00",10.00,289,Noida,Uttar Pradesh,Card
+ORD102,6/2/2026,Priya,Furniture,Chairs,Office Chair,2,"15,000.00",10.00,1425,Ghaziabad,Uttar Pradesh,UPI
+ORD103,6/4/2026,Amit,Clothing,Jackets,Jacket,3,"9,600.00",10.00,1555,Meerut,Uttar Pradesh,Cash
+ORD104,6/5/2026,Neha,Electronics,Laptops,Laptop,1,"50,000.00",10.00,8000,Gurugram,Haryana,Card
+ORD105,6/7/2026,Ravi,Office Supplies,Paper,Printer Paper,4,"2,000.00",10.00,340,Delhi,Delhi,UPI
+ORD106,6/8/2026,Pooja,Furniture,Bookcases,Bookshelf,2,"17,000.00",10.00,2754,Bijnor,Uttar Pradesh,Net Banking
+ORD107,6/10/2026,Ankit,Clothing,Trousers,Formal Trousers,2,"4,400.00",10.00,564,Noida,Uttar Pradesh,Cash
+ORD108,6/11/2026,Sneha,Electronics,Mobiles,Smartphone,1,"18,000.00",10.00,3078,Jaipur,Rajasthan,Card
+ORD109,6/13/2026,Vikas,Furniture,Furnishings,Desk Lamp,2,"3,000.00",10.00,326,Agra,Uttar Pradesh,UPI
+ORD110,6/14/2026,Kavita,Office Supplies,Storage,Storage Box,5,"3,500.00",10.00,510,Dehradun,Uttarakhand,Cash
+ORD111,6/16/2026,Rohit,Electronics,Accessories,Keyboard,1,"1,800.00",10.00,306,Delhi,Delhi,UPI
+ORD112,6/17/2026,Anjali,Clothing,Shirts,Formal Shirt,2,"3,000.00",10.00,513,Noida,Uttar Pradesh,Card
+ORD113,6/19/2026,Arjun,Furniture,Tables,Study Table,3,"18,000.00",10.00,2601,Ghaziabad,Uttar Pradesh,UPI
+ORD114,6/20/2026,Simran,Electronics,Laptops,Laptop,1,"50,000.00",10.00,9000,Meerut,Uttar Pradesh,Net Banking
+ORD115,6/22/2026,Nitin,Office Supplies,Pens,Ball Pen,4,320.00,10.00,54,Gurugram,Haryana,Cash
+ORD116,6/23/2026,Komal,Clothing,T-Shirts,Casual T-Shirt,3,"2,700.00",10.00,367,Bijnor,Uttar Pradesh,UPI
+ORD117,6/25/2026,Saurabh,Electronics,Accessories,Headphones,2,"5,000.00",10.00,760,Noida,Uttar Pradesh,Card
+ORD118,6/26/2026,Shweta,Furniture,Chairs,Office Chair,1,"7,500.00",10.00,1012,Jaipur,Rajasthan,UPI
+ORD119,6/28/2026,Manish,Office Supplies,Binders,File Binder,5,"1,750.00",10.00,253,Delhi,Delhi,Cash
+ORD120,6/29/2026,Riya,Clothing,Jackets,Jacket,2,"6,400.00",10.00,1088,Agra,Uttar Pradesh,Card
+ORD121,7/1/2026,Rahul,Electronics,Mobiles,Smartphone,3,"54,000.00",10.00,8748,Noida,Uttar Pradesh,UPI
+ORD122,7/2/2026,Priya,Furniture,Tables,Study Table,1,"6,000.00",10.00,855,Ghaziabad,Uttar Pradesh,Card
+ORD123,7/4/2026,Amit,Clothing,Shirts,Formal Shirt,2,"3,000.00",10.00,486,Meerut,Uttar Pradesh,Cash
+ORD124,7/5/2026,Neha,Electronics,Accessories,Keyboard,4,"7,200.00",10.00,918,Gurugram,Haryana,UPI
+ORD125,7/7/2026,Ravi,Office Supplies,Storage,Storage Box,2,"1,400.00",5.00,238,Delhi,Delhi,Card
+ORD126,7/8/2026,Pooja,Furniture,Bookcases,Bookshelf,1,"8,500.00",5.00,1156,Bijnor,Uttar Pradesh,UPI
+ORD127,7/10/2026,Ankit,Electronics,Laptops,Laptop,2,"100,000.00",5.00,18000,Noida,Uttar Pradesh,Net Banking
+ORD128,7/11/2026,Sneha,Clothing,Trousers,Formal Trousers,3,"6,600.00",5.00,1129,Jaipur,Rajasthan,Cash
+ORD129,7/13/2026,Vikas,Furniture,Furnishings,Desk Lamp,3,"4,500.00",5.00,459,Agra,Uttar Pradesh,Card
+ORD130,7/14/2026,Kavita,Office Supplies,Paper,Printer Paper,5,"2,500.00",5.00,383,Dehradun,Uttarakhand,UPI
+ORD131,7/16/2026,Rohit,Electronics,Mobiles,Smartphone,1,"18,000.00",5.00,2592,Delhi,Delhi,Cash
+ORD132,7/17/2026,Anjali,Clothing,Jackets,Jacket,2,"6,400.00",5.00,1094,Noida,Uttar Pradesh,Card
+ORD133,7/19/2026,Arjun,Furniture,Chairs,Office Chair,2,"15,000.00",5.00,1807,Ghaziabad,Uttar Pradesh,UPI
+ORD134,7/20/2026,Simran,Office Supplies,Binders,File Binder,3,"1,050.00",5.00,179,Meerut,Uttar Pradesh,Cash
+ORD135,7/22/2026,Nitin,Electronics,Accessories,Headphones,1,"2,500.00",5.00,365,Gurugram,Haryana,Card
+ORD136,7/23/2026,Komal,Clothing,T-Shirts,Casual T-Shirt,4,"3,600.00",5.00,615,Bijnor,Uttar Pradesh,UPI
+ORD137,7/25/2026,Saurabh,Furniture,Tables,Study Table,2,"12,000.00",5.00,1632,Noida,Uttar Pradesh,Net Banking
+ORD138,7/26/2026,Shweta,Electronics,Laptops,Laptop,1,"50,000.00",5.00,10625,Jaipur,Rajasthan,Card
+ORD139,7/28/2026,Manish,Office Supplies,Pens,Ball Pen,5,400.00,5.00,61,Delhi,Delhi,Cash
+ORD140,7/29/2026,Riya,Clothing,Shirts,Formal Shirt,3,"4,500.00",5.00,765,Agra,Uttar Pradesh,UPI
+ORD141,8/1/2026,Rahul,Electronics,Accessories,Keyboard,2,"3,600.00",5.00,459,Noida,Uttar Pradesh,Card
+ORD142,8/2/2026,Priya,Furniture,Chairs,Office Chair,1,"7,500.00",5.00,1069,Ghaziabad,Uttar Pradesh,UPI
+ORD143,8/4/2026,Amit,Clothing,Trousers,Formal Trousers,2,"4,400.00",5.00,712,Meerut,Uttar Pradesh,Cash
+ORD144,8/5/2026,Neha,Electronics,Mobiles,Smartphone,2,"36,000.00",5.00,5184,Gurugram,Haryana,Card
+ORD145,8/7/2026,Ravi,Office Supplies,Paper,Printer Paper,3,"1,500.00",5.00,255,Delhi,Delhi,UPI
+ORD146,8/8/2026,Pooja,Furniture,Bookcases,Bookshelf,2,"17,000.00",5.00,2907,Bijnor,Uttar Pradesh,Net Banking
+ORD147,8/10/2026,Ankit,Electronics,Laptops,Laptop,1,"50,000.00",5.00,9000,Noida,Uttar Pradesh,Card
+ORD148,8/11/2026,Sneha,Clothing,Jackets,Jacket,3,"9,600.00",5.00,1306,Jaipur,Rajasthan,UPI
+ORD149,8/13/2026,Vikas,Furniture,Furnishings,Desk Lamp,4,"6,000.00",5.00,918,Agra,Uttar Pradesh,Cash
+ORD150,8/14/2026,Kavita,Office Supplies,Storage,Storage Box,2,"1,400.00",5.00,190,Dehradun,Uttarakhand,Card
+ORD151,8/16/2026,Rohit,Electronics,Accessories,Headphones,3,"7,500.00",5.00,1140,Delhi,Delhi,UPI
+ORD152,8/17/2026,Anjali,Clothing,T-Shirts,Casual T-Shirt,1,900.00,5.00,131,Noida,Uttar Pradesh,Cash
+ORD153,8/19/2026,Arjun,Furniture,Tables,Study Table,3,"18,000.00",5.00,2916,Ghaziabad,Uttar Pradesh,Card
+ORD154,8/20/2026,Simran,Electronics,Mobiles,Smartphone,1,"18,000.00",5.00,2754,Meerut,Uttar Pradesh,UPI
+ORD155,8/22/2026,Nitin,Office Supplies,Binders,File Binder,4,"1,400.00",5.00,238,Gurugram,Haryana,Cash
+ORD156,8/23/2026,Komal,Clothing,Shirts,Formal Shirt,2,"3,000.00",5.00,408,Bijnor,Uttar Pradesh,Card
+ORD157,8/25/2026,Saurabh,Furniture,Chairs,Office Chair,2,"15,000.00",5.00,2025,Noida,Uttar Pradesh,UPI
+ORD158,8/26/2026,Shweta,Electronics,Accessories,Keyboard,3,"5,400.00",5.00,872,Jaipur,Rajasthan,Net Banking
+ORD159,8/28/2026,Manish,Office Supplies,Paper,Printer Paper,5,"2,500.00",5.00,361,Delhi,Delhi,Cash
+ORD160,8/29/2026,Riya,Clothing,Trousers,Formal Trousers,1,"2,200.00",5.00,374,Agra,Uttar Pradesh,UPI
+ORD161,9/1/2026,Rahul,Electronics,Laptops,Laptop,1,"50,000.00",5.00,10625,Noida,Uttar Pradesh,Card
+ORD162,9/2/2026,Priya,Furniture,Furnishings,Desk Lamp,2,"3,000.00",5.00,437,Ghaziabad,Uttar Pradesh,UPI
+ORD163,9/4/2026,Amit,Clothing,Jackets,Jacket,2,"6,400.00",5.00,870,Meerut,Uttar Pradesh,Cash
+ORD164,9/5/2026,Neha,Electronics,Accessories,Headphones,1,"2,500.00",5.00,280,Gurugram,Haryana,Card
+ORD165,9/7/2026,Ravi,Office Supplies,Storage,Storage Box,4,"2,800.00",5.00,484,Delhi,Delhi,UPI
+ORD166,9/8/2026,Pooja,Furniture,Bookcases,Bookshelf,1,"8,500.00",5.00,1377,Bijnor,Uttar Pradesh,Net Banking
+ORD167,9/10/2026,Ankit,Electronics,Mobiles,Smartphone,2,"36,000.00",5.00,5508,Noida,Uttar Pradesh,Card
+ORD168,9/11/2026,Sneha,Clothing,T-Shirts,Casual T-Shirt,3,"2,700.00",0.00,459,Jaipur,Rajasthan,UPI
+ORD169,9/12/2026,Vikas,Furniture,Tables,Study Table,2,"12,000.00",0.00,1632,Agra,Uttar Pradesh,Cash
+ORD170,9/14/2026,Kavita,Office Supplies,Pens,Ball Pen,5,400.00,0.00,61,Dehradun,Uttarakhand,Card
+ORD171,9/15/2026,Rohit,Electronics,Laptops,Laptop,2,"100,000.00",0.00,18000,Delhi,Delhi,UPI
+ORD172,9/17/2026,Anjali,Clothing,Shirts,Formal Shirt,1,"1,500.00",0.00,257,Noida,Uttar Pradesh,Cash
+ORD173,9/18/2026,Arjun,Furniture,Chairs,Office Chair,3,"22,500.00",0.00,2709,Ghaziabad,Uttar Pradesh,Card
+ORD174,9/20/2026,Simran,Electronics,Accessories,Keyboard,2,"3,600.00",0.00,612,Meerut,Uttar Pradesh,UPI
+ORD175,9/21/2026,Nitin,Office Supplies,Paper,Printer Paper,4,"2,000.00",0.00,272,Gurugram,Haryana,Net Banking
+ORD176,9/23/2026,Komal,Clothing,Jackets,Jacket,1,"3,200.00",0.00,492,Bijnor,Uttar Pradesh,Cash
+ORD177,9/24/2026,Saurabh,Electronics,Accessories,Headphones,2,"5,000.00",0.00,760,Noida,Uttar Pradesh,Card
+ORD178,9/26/2026,Shweta,Furniture,Bookcases,Bookshelf,2,"17,000.00",0.00,2754,Jaipur,Rajasthan,UPI
+ORD179,9/27/2026,Manish,Office Supplies,Binders,File Binder,3,"1,050.00",0.00,161,Delhi,Delhi,Cash
+ORD180,9/29/2026,Riya,Clothing,Trousers,Formal Trousers,2,"4,400.00",0.00,748,Agra,Uttar Pradesh,Card
+ORD181,9/30/2026,Rahul,Electronics,Mobiles,Smartphone,1,"18,000.00",0.00,2916,Noida,Uttar Pradesh,UPI
+ORD182,10/2/2026,Priya,Furniture,Tables,Study Table,2,"12,000.00",0.00,1710,Ghaziabad,Uttar Pradesh,Card
+ORD183,10/3/2026,Amit,Clothing,T-Shirts,Casual T-Shirt,4,"3,600.00",0.00,367,Meerut,Uttar Pradesh,Cash
+ORD184,10/5/2026,Neha,Electronics,Laptops,Laptop,1,"50,000.00",0.00,8000,Gurugram,Haryana,UPI
+ORD185,10/6/2026,Ravi,Office Supplies,Storage,Storage Box,3,"2,100.00",0.00,363,Delhi,Delhi,Card
+ORD186,10/8/2026,Pooja,Furniture,Chairs,Office Chair,1,"7,500.00",0.00,1275,Bijnor,Uttar Pradesh,Net Banking
+ORD187,10/9/2026,Ankit,Electronics,Accessories,Keyboard,4,"7,200.00",0.00,1094,Noida,Uttar Pradesh,UPI
+ORD188,10/11/2026,Sneha,Clothing,Jackets,Jacket,2,"6,400.00",0.00,1094,Jaipur,Rajasthan,Cash
+ORD189,10/12/2026,Vikas,Furniture,Furnishings,Desk Lamp,3,"4,500.00",0.00,367,Agra,Uttar Pradesh,Card
+ORD190,10/14/2026,Kavita,Office Supplies,Paper,Printer Paper,5,"2,500.00",0.00,425,Dehradun,Uttarakhand,UPI
+ORD191,10/15/2026,Rohit,Electronics,Mobiles,Smartphone,2,"36,000.00",0.00,5508,Delhi,Delhi,Card
+ORD192,10/17/2026,Anjali,Clothing,Shirts,Formal Shirt,3,"4,500.00",0.00,729,Noida,Uttar Pradesh,Cash
+ORD193,10/18/2026,Arjun,Furniture,Bookcases,Bookshelf,1,"8,500.00",0.00,1445,Ghaziabad,Uttar Pradesh,UPI
+ORD194,10/20/2026,Simran,Electronics,Laptops,Laptop,2,"100,000.00",0.00,16000,Meerut,Uttar Pradesh,Net Banking
+ORD195,10/21/2026,Nitin,Office Supplies,Pens,Ball Pen,5,400.00,0.00,61,Gurugram,Haryana,Cash
+ORD196,10/23/2026,Komal,Clothing,Trousers,Formal Trousers,2,"4,400.00",0.00,564,Bijnor,Uttar Pradesh,Card
+ORD197,10/24/2026,Saurabh,Furniture,Tables,Study Table,1,"6,000.00",0.00,972,Noida,Uttar Pradesh,UPI
+ORD198,10/26/2026,Shweta,Electronics,Accessories,Headphones,3,"7,500.00",0.00,1275,Jaipur,Rajasthan,Card
+ORD199,10/27/2026,Manish,Office Supplies,Binders,File Binder,4,"1,400.00",0.00,239,Delhi,Delhi,Cash
+ORD200,10/29/2026,Riya,Clothing,Jackets,Jacket,2,"6,400.00",0.00,870,Agra,Uttar Pradesh,UPI
